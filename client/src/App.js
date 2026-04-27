@@ -1,13 +1,13 @@
 import React from 'react';
 import './App.css';
-import SpeacialOperator from './R011_SpeacialOperator'
+import ClassPrototype from './R012_ClassPrototype'
 
 function App() {
   return (
     <div>
       <h1>Start React 200!</h1>
       <p>CSS 적용하기</p>
-      <SpeacialOperator/>
+      <ClassPrototype/>
     </div>
   );
 }
